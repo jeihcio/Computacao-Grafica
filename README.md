@@ -9,6 +9,7 @@ A ferramenta é um APP que contém as questões antigas das provas do CEDERJ. A 
 # Questões
 
 Na ferramenta contém as questões das provas antigas de 2015.1 até 2017.1, tanto para AP2 e AP3.
+As provas usadas para retirar as questões estão no [HD do CompCEDERJ](https://onedrive.live.com/?authkey=%21AIZLFUL1M2GDyyk&id=589E18067CE99545%21522&cid=589E18067CE99545)
 
 # Aviso Importante 
 
